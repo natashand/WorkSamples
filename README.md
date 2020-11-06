@@ -7,3 +7,6 @@ Parts:
 2. Laravel Models
 3. Node.js routings and controllers with SQL scriprs
 4. JavaScript and Vue.js components
+
+(c) Natallia V. Andreenko
+https://hh.ru/resume/6bc8d56bff0362f15a0039ed1f48645263334e
